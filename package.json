@@ -28,5 +28,8 @@
     "react-dom": "^18.1.0",
     "react-helmet": "^6.1.0",
     "sass": "^1.52.1"
+  },
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
   }
 }
